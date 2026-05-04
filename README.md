@@ -48,7 +48,7 @@ pip install Flask
 
 4. Run the Flask application:
 ```bash
-python3 app.py
+python3 server.py
 ```
 
 5. Open you browser and navigate to the adress printed in the terminal.

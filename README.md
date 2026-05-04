@@ -27,7 +27,7 @@ Make sure you have Python 3.x installed.
 1. Clone the repository:
    ```bash
    git clone https://github.com/andredpinto/Billionaires_TP_BD
-   cd Billionaires_TP_BD
+   cd Billionaires_TP_BD/app   # Make sure you are in the app directory
    ```
 
 2. Create and activate a virtual environment (recommended):
@@ -43,13 +43,12 @@ source venv/bin/activate
 
 3. Install required dependencies:
 ```
-pip install --user Flask
+pip install Flask
 ```
 
 4. Run the Flask application:
 ```bash
-python3 app/app.py
+python3 app.py
 ```
 
-5. Open you browser and navigate to:
-http://127.0.0.1:5000   (TODO: check)
+5. Open you browser and navigate to the adress printed in the terminal.
